@@ -1,6 +1,4 @@
-# Hello there 👋
-
-I'm **Christian Karidas**, a Bachelor's student in **Business Informatics** at the **Technical University of Munich (TUM)**, currently in my 8th semester. Alongside my studies, I work as a **Software Engineering Working Student** at **SAP**.
+Hey 👋, I'm **Christian Karidas**, a Bachelor's student in **Business Informatics** at the **Technical University of Munich (TUM)**, currently in my 8th semester. Alongside my studies, I work as a **Software Engineering Working Student** at **SAP**.
 I’m curious, always eager to learn, and love blending business thinking with solid software engineering.
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/christian-karidas/)
