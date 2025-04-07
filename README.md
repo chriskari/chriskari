@@ -6,7 +6,7 @@ I’m curious, always eager to learn, and love blending business thinking with s
 - 🎓 Currently wrapping up my degree and growing my experience in the industry
 - 📚 Recently been diving deeper into foundations of machine learning and statistics
 
-### 🛠 Technologies I am very confident with:
+#### 🛠 Technologies I am very confident with:
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org)
@@ -14,7 +14,7 @@ I’m curious, always eager to learn, and love blending business thinking with s
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-### 📦 Other tools & languages I've worked with:
+#### 📦 Other tools & languages I've worked with:
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
