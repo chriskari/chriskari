@@ -1,15 +1,11 @@
 # Hello there 👋
 
-I'm **Christian Karidas**, a Bachelor's student in **Business Informatics** at the **Technical University of Munich (TUM)**, currently in my 8th semester.  
-Alongside my studies, I work as a **Software Engineering Working Student** at **SAP**.
-
-I work with **React**, **TypeScript**, and **Node.js** on a daily basis – but I’ve also worked with **Java**, **Python**, and **R**, especially in academic or data-focused projects.
-
+I'm **Christian Karidas**, a Bachelor's student in **Business Informatics** at the **Technical University of Munich (TUM)**, currently in my 8th semester. Alongside my studies, I work as a **Software Engineering Working Student** at **SAP**.
 I’m curious, always eager to learn, and love blending business thinking with solid software engineering.
 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/christian-karidas/)
 - 🎓 Currently wrapping up my degree and growing my experience in the industry
-- 📚 Recently been diving deeper into TypeScript, distributed systems, and DevOps tooling
+- 📚 Recently been diving deeper into foundations of machine learning and statistics
 
 ## 🛠 Technologies I am very confident with:
 
