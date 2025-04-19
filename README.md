@@ -20,6 +20,7 @@ I’m curious, always eager to learn, and love blending business thinking with s
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)](https://isocpp.org)
 
 <!--
 **chriskari/chriskari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
